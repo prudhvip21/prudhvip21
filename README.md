@@ -51,4 +51,4 @@ Repositories starting with `Usecase` hold more applied case studies.
 
 ## Contact
 
-prudhvi@supervisedlearning.com | [supervisedlearning.com](https://supervisedlearning.com)
+prudhvi@supervisedlearning.com | [supervisedlearning.com](https://supervisedlearning.com) | [LinkedIn](https://www.linkedin.com/in/prudhvip21)
